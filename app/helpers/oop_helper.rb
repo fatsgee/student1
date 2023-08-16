@@ -1,0 +1,2 @@
+module OopHelper
+end
